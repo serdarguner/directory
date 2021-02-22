@@ -1,4 +1,5 @@
-[
+{
+        "directories":[
         {
           id: 0,
           name: "The Assets Directory",
